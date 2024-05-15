@@ -57,8 +57,14 @@ history: [
 ],
 ```
 
+Once everything is ready:
+
+```javascript
+npm run dev
+```
+
 ## Demo
 
 The interface tries to be as intuitive and friendly as possible. The virtual assistant has 3 possible states according to how the conversation unfolds, represented by some nice icons: "satisfactory response / greeting"; "thinking" and "error."
 
-You can test a version deployed to production at the following link: https://react-chatbot-client.vercel.app
+You can test a deployed version at the following link: https://react-chatbot-client.vercel.app
